@@ -8,7 +8,7 @@ Above I will add ML
 projects, CFD projects, and those which 
 combine elements of both. 
 
-Or, stuff I find interesting.
+Or, just stuff I find interesting.
 
 
 
